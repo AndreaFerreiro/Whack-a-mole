@@ -1,1 +1,2 @@
 # Whack-a-mole
+Enjoy this game where a mole is hidden underground, he is going to appear in one ofe the squares but, be Fast!! He will disappear in a second. Hit his head to get points. You only have a minute!!
