@@ -1,0 +1,43 @@
+.title{
+    text-align: center;
+    margin-top: 60px;
+}
+.container{
+    display: flex;
+    flex-direction:row;
+    gap: 300px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.containerScore{
+    display: flex;
+    gap: 15px;
+}
+.containerTime{
+    display: flex;
+    gap: 15px;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: black;
+}
+.grid{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    justify-content: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.mole{
+    background-image: url(mole.jpeg);
+    background-size: cover;
+}
+.hitMole{
+    background-image: url(mole2.jpeg);
+    background-size: cover;
+}
